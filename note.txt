@@ -1,0 +1,73 @@
+java script 13thfeb
+-----------------
+both frontend - gives behavior
+ and backend - it used to do  logic operation
+
+ js is a single thread progrm - bcoz it executes line by line  
+ js is a dynamically tight language - data type changes ---bad property
+ 
+ 
+ 
+ inspect--console
+
+ compiler for js is node  - version above 18
+
+ js file create ---  .js  (extension)
+
+ to display content --  console.log('content')
+
+ data type
+ ----------------------
+ 1).string - single quote or double type --string data type
+ 2)boolean - true or false
+  
+method to check  data --- typeof()
+no float in java ---ex 27.5 is number not float(decibal in c language)
+
+total 8 type od data
+-------------
+concatenation  -- to join/add same or different data type
+------
+string+string = string data  QUOTES INSIDE IS STRING NO MATTER IF IT IS NUMBER OR CHARCHTER
+string+number = string
+number+number = number
+----------------------
+variables -- use to store data
+_________
+-identifiers- setof rules to create variables
+1) starts with letter/dollr sign/underscore --- most prefer letter
+2)sub sequent characters can be letters,digits,underscore
+3) if there more than one word -- 
+           -second word can be started with cap letter or
+            -use underscore between the words
+            -no space bewteen the words
+
+        keyword variable Name = value  
+
+        keywords - set of resrved words which give special meaning to words
+         cannot be used as variable name ,function name etc etc
+         1)const - value doesnt change -reasign not possiblr
+         2)var - reasign possible
+         3)let -
+
+
+
+
+         hoisting - using variable before it is created
+         ---- in var hoisting possible-- not possible in const
+
+
+         let --- reasign possible
+                accesible  inside block  -- curly bracket  {} 
+                hoisting not possible
+
+                var -- functional level ---in let not possible
+
+
+
+         template literals  - way of diplaying content
+         -----------------
+         using backlet   `contet ${cc}
+
+
+         
